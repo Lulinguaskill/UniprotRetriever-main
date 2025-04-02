@@ -1,0 +1,11 @@
+# Disable feedback to not spam python console /!\ Comment for debbug
+feedback disable,all,actions
+feedback disable,all,results
+# Making selection
+select C, name C
+# Visualization
+spectrum
+# Orientation
+#set_view (0.254290223,   -0.966248572,    0.041276600, -0.291960716,   -0.117382661,   -0.949198186,  0.922005773,    0.229319856,   -0.311954916,  -0.000009388,   -0.000011697, -245.291748047,  -8.415452957,    5.021198273,   16.142238617,    168.682952881,  321.902191162,  -20.000000000 )
+# Store scene
+png path_placeholder, width=25cm, height=25cm, dpi=60

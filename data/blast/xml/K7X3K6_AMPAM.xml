@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.15.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>&quot;C:\Users\guill\Downloads\swissprot\swissprot&quot;</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>tr|K7X3K6|K7X3K6_AMPAM Cement protein 20 kDa-1 (Fragment) OS=Amphibalanus amphitrite OX=1232801 GN=cp20k-1 PE=2 SV=1</BlastOutput_query-def>
+  <BlastOutput_query-len>129</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>tr|K7X3K6|K7X3K6_AMPAM Cement protein 20 kDa-1 (Fragment) OS=Amphibalanus amphitrite OX=1232801 GN=cp20k-1 PE=2 SV=1</Iteration_query-def>
+  <Iteration_query-len>129</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>sp|Q956Z9.1|</Hit_id>
+  <Hit_def>RecName: Full=Cytochrome b; AltName: Full=Complex III subunit 3; AltName: Full=Complex III subunit III; AltName: Full=Cytochrome b-c1 complex subunit 3; AltName: Full=Ubiquinol-cytochrome-c reductase complex cytochrome b subunit [Myotis nattereri]</Hit_def>
+  <Hit_accession>Q956Z9</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>31.187</Hsp_bit-score>
+      <Hsp_score>69</Hsp_score>
+      <Hsp_evalue>2.33021</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>36</Hsp_query-to>
+      <Hsp_hit-from>232</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>13</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LALCLTAVIVAVFVAADARGQKRNCNPGNPC</Hsp_qseq>
+      <Hsp_hseq>LLLMITALLVLVFFSPDMXGDPDNYMPANPL</Hsp_hseq>
+      <Hsp_midline>L L +TA++V VF + D  G   N  P NP </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>sp|P28995.1|</Hit_id>
+  <Hit_def>RecName: Full=Glycoprotein 5; Short=Protein GP5; AltName: Full=G(L); Flags: Precursor [Equine arteritis virus Bucyrus]</Hit_def>
+  <Hit_accession>P28995</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.8018</Hsp_bit-score>
+      <Hsp_score>68</Hsp_score>
+      <Hsp_evalue>2.90137</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>106</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>81</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>LFCTPAHRCFHIHVSN--------MSTTREVECNC------NHLTPCDSSHPCWHPTVVNETLTTYDCDCD</Hsp_qseq>
+      <Hsp_hseq>LWGAPSHAYFSYYTAQRFTDFTLCMLTDRGVIANLLRYDEHTALYNCSASKTCWYCTFLDEQIITFGTDCD</Hsp_hseq>
+      <Hsp_midline>L+  P+H  F  + +         M T R V  N         L  C +S  CW+ T ++E + T+  DCD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>sp|Q9GRC4.1|</Hit_id>
+  <Hit_def>RecName: Full=Cement protein 20; AltName: Full=20 kDa cement protein; Short=Mrcp-20k; Flags: Precursor [Megabalanus rosa]</Hit_def>
+  <Hit_accession>Q9GRC4</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.0314</Hsp_bit-score>
+      <Hsp_score>66</Hsp_score>
+      <Hsp_evalue>3.98177</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>118</Hsp_query-to>
+      <Hsp_hit-from>82</Hsp_hit-from>
+      <Hsp_hit-to>180</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>CNPGNPCFHCQDT------CDCSSEGLF----------CTPAHRCFHIHVSNMSTTREVECNCNHLTPCDSSHPCWHPTVVNETLTTYDCDCDSIECSIRHPCWH</Hsp_qseq>
+      <Hsp_hseq>CNEDHPCHHCHEEDDGDTHCHCSCEHSHDHHDDDTHGECTKKAPCWRCEYNADLKHDVCGCECSKL-PCNDEHPCY-----RKEGGVVSCDCKTITCNEDHPCYH</Hsp_hseq>
+      <Hsp_midline>CN  +PC HC +       C CS E             CT    C+    +         C C+ L PC+  HPC+      +      CDC +I C+  HPC+H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>sp|Q8SQA4.1|</Hit_id>
+  <Hit_def>RecName: Full=Adhesion G protein-coupled receptor E5; AltName: Full=Leukocyte antigen CD97; AltName: CD_antigen=CD97; Contains: RecName: Full=Adhesion G protein-coupled receptor E5 subunit alpha; Contains: RecName: Full=Adhesion G protein-coupled receptor E5 subunit beta; Flags: Precursor [Bos taurus]</Hit_def>
+  <Hit_accession>Q8SQA4</Hit_accession>
+  <Hit_len>734</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.4166</Hsp_bit-score>
+      <Hsp_score>67</Hsp_score>
+      <Hsp_evalue>4.11869</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>105</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>CNPGNPCFHCQDTCDC-SSEGLF---CTPAHRCFHIHVSNMSTTREVECNCNHLTPCDS-SHPCWHPTVVNETLTTYDCDC</Hsp_qseq>
+      <Hsp_hseq>CGPPSPV-DCGSSADCQNTEGGYYCTCSPGYEPVS---GAMIFRNESENTCRDVDECSSGQHQCHNSTVCFNTVGSYTCHC</Hsp_hseq>
+      <Hsp_midline>C P +P   C  + DC ++EG +   C+P +         M    E E  C  +  C S  H C + TV   T+ +Y C C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>sp|Q8GZD4.2|</Hit_id>
+  <Hit_def>RecName: Full=Nucleobase-ascorbate transporter 3; Short=AtNAT3 [Arabidopsis thaliana]</Hit_def>
+  <Hit_accession>Q8GZD4</Hit_accession>
+  <Hit_len>551</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.0314</Hsp_bit-score>
+      <Hsp_score>66</Hsp_score>
+      <Hsp_evalue>4.97302</Hsp_evalue>
+      <Hsp_query-from>65</Hsp_query-from>
+      <Hsp_query-to>94</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>59</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>16</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>NMSTTREVECNCNHLTPCDSSHPCWHPTVV</Hsp_qseq>
+      <Hsp_hseq>NMGTTWPPAEQLHHLQYCIHSNPSWHETVV</Hsp_hseq>
+      <Hsp_midline>NM TT       +HL  C  S+P WH TVV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>483204</Statistics_db-num>
+      <Statistics_db-len>183688421</Statistics_db-len>
+      <Statistics_hsp-len>96</Statistics_hsp-len>
+      <Statistics_eff-space>4530927621</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

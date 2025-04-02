@@ -1,0 +1,1 @@
+INSERT INTO proteins (protein_id, sequence, taxonomy) VALUES (?, ?, ?);

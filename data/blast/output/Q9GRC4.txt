@@ -1,0 +1,60 @@
+Title: sp|Q9GRC4.1| RecName: Full=Cement protein 20; AltName: Full=20 kDa cement protein; Short=Mrcp-20k; Flags: Precursor [Megabalanus rosa]
+Length: 202
+E-value: 8.45607e-143
+Sequence: MKWFLFLLTTAVLAAVVSAHEEDGVCNSNAPCYHCDANGENCSCNCELFDCEAKKPDGSYAHPCRRCDANNICKCSCTAIPCNEDHPCHHCHEEDDGDTHCHCSCEHSHDHHDDDTHGECTKKAPCWRCEYNADLKHDVCGCECSKLPCNDEHPCYRKEGGVVSCDCKTITCNEDHPCYHSYEEDGVTKSDCDCEHSPGPSE
+
+Title: sp|Q9VW71.3| RecName: Full=Fat-like cadherin-related tumor suppressor homolog; AltName: Full=Protein kugelei; Flags: Precursor [Drosophila melanogaster]
+Length: 4699
+E-value: 0.0622804
+Sequence: CQPRYSGKHCEIDLDPCSSGPCLFGGRCDYHGPN-NYSCTCPIHLSGKRCEYGKFC----TPNPCKNGGIC----EEGDGISHCMCRGYTGPTCEIDVDECENQPCGNGATCINEPGSFRCICPSYLTGASCG
+
+Title: sp|Q9HCU4.1| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 2; AltName: Full=Cadherin family member 10; AltName: Full=Epidermal growth factor-like protein 2; Short=EGF-like protein 2; AltName: Full=Flamingo homolog 3; AltName: Full=Multiple epidermal growth factor-like domains protein 3; Short=Multiple EGF-like domains protein 3; Flags: Precursor [Homo sapiens]
+Length: 2923
+E-value: 1.19577
+Sequence: CSNDWDSYSCSCDPGYYGDNCTNVCDLNPCEHQSVCTRKPSAPHGYTC-ECPPNYLGPYCETRI----DQPCPRGWWGHPTCGPCNCDVSKGFDPDCNKTSGECHCKENHYRPPGSPTCLLCDCYPTGSLSRVCDPEDGQCPC
+
+Title: sp|Q2QI47.2| RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein homolog; AltName: Full=Usher syndrome type-2A protein homolog; Flags: Precursor [Mus musculus]
+Length: 5193
+E-value: 1.53183
+Sequence: HCDPIGGQCDCKRRVSGRQCLQCQDGFYDLQALDPDG-----CRPCNCNPSGTVDGDITCHQNSGQCSCKANVIGLRCNRCNFGFKFLQSFNGDGCEPCQCNLHGSVNQLCDPLSGQCACKKEAKGLKCDSCRENFYGLPWSACEVCDCSKAGSQPGTVCDTETG---QCVCKPNVGGRQCSQCKAGYFNLYQNDSHLCLTCNCE
+
+Title: sp|Q9V5N8.4| RecName: Full=Protocadherin-like wing polarity protein stan; AltName: Full=Protein flamingo; AltName: Full=Protein starry night; Flags: Precursor [Drosophila melanogaster]
+Length: 3579
+E-value: 1.58965
+Sequence: EDG-CESRAQCPDHC-PNHSSCQSSWDLSTCE--------------CDSGYVGTDCAPICTVRPCASGVCRANTSLPRGYDCECNSSSRHG-DYCEKELQQPCPGGWWGERVCGPC-RCDL-AQGYHPDCNKTTGQCYCKTNHYQPPNETACLSCDCYSIGSFSGACN---PLTGQCECREGVIGRRCDSCSNP
+
+Title: sp|Q80U22.2| RecName: Full=AP-4 complex accessory subunit RUSC2; AltName: Full=Interacting protein of Rab1; Short=Iporin; AltName: Full=RUN and SH3 domain-containing protein 2 [Mus musculus]
+Length: 1514
+E-value: 4.35322
+Sequence: SSDESPRHPGRSGSGTQHCHCSSTSSQSEAADQSMGYVSDSSCNSSDGVLVTFSTLYNK--MHSSSRANLNSVPQSCSDSSFCSHADPGAFYLDLQPSPAESRMSCESHHPENGDREEGCGCPHVSSP
+
+Title: sp|Q7Z1K6.1| RecName: Full=Toxin Cll5c*; Flags: Precursor [Centruroides limpidus]
+Length: 85
+E-value: 5.55588
+Sequence: LLIITACLVLFVWAKEGYLVNKSTGCKYGCFWLGKNENCDME---CKAKNQGGSYGY
+
+Title: sp|O60014.2| RecName: Full=E3 ubiquitin-protein ligase UBR1; AltName: Full=N-end-recognizing protein; AltName: Full=N-recognin-1; AltName: Full=RING-type E3 ubiquitin transferase UBR1 [Kluyveromyces lactis NRRL Y-1140]
+Length: 1945
+E-value: 5.66939
+Sequence: SSKPWYKIDENGGHSKFNHAGRICGAKFRVGEPIYRCKECSFDDTC-VLCVNCFNPKDHVGHHVYTSICTEFNNGI--CDCGDKEAWNH
+
+Title: sp|Q9QYP2.1| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 2; AltName: Full=Multiple epidermal growth factor-like domains protein 3; Short=Multiple EGF-like domains protein 3 [Rattus norvegicus]
+Length: 2144
+E-value: 5.90096
+Sequence: CSNDWDSYSCSCDPGYYGDNCTNVCDLNPCEHQSACTRKPSAPHGYIC-ECLPNYLGPYCETRI----DQPCPRGWWGHPTCGPCNCDVSKGFDPDCNKTSGECHCKENHYRPPSSPTCLLCDCYPTGSLSRVCDPEDGQCPC
+
+Title: sp|O22781.1| RecName: Full=Histone-lysine N-methyltransferase family member SUVH2; AltName: Full=Cytosine-HMTase 2; AltName: Full=H3-K27-HMTase 2; AltName: Full=H4-K20-HMTase 2; AltName: Full=Histone H3-K9 methyltransferase 2; Short=H3-K9-HMTase 2; AltName: Full=Protein SET DOMAIN GROUP 3; AltName: Full=Suppressor of variegation 3-9 homolog protein 2; Short=Su(var)3-9 homolog protein 2 [Arabidopsis thaliana]
+Length: 651
+E-value: 8.53737
+Sequence: GCEC-KLSCTDDCLCARKNGGEFAYD
+
+Title: sp|Q9R0M0.3| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 2; AltName: Full=Flamingo homolog; Flags: Precursor [Mus musculus]
+Length: 2919
+E-value: 9.49855
+Sequence: CSNDWDSYSCSCVLGYYGDNCTNVCDLNPCEHQSVCTRKPNTPHGYIC-ECLPNYLGPYCETRI----DQPCPRGWWGHPTCGPCNCDVSKGFDPDCNKTSGECHCKENHYRPPGSPTCLLCDCYPTGSLSRVCDPEDGQCPC
+
+Title: sp|O35161.3| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 1; Flags: Precursor [Mus musculus]
+Length: 3034
+E-value: 9.68054
+Sequence: EDPCASSPCPPHSHCRDTWDSYSCICDRGYFGKKCVDACLLNPCKHVAACVRSPNTPRGYSCE---CGPGHYGQYCENKVDLPCPKGWWGNPVCGPCHCAVSQGFDPDCNKTNGQCQCKE-----NYYKPPAQDAC------LPCD----CFPHGSHSRACDMDTGQC
+

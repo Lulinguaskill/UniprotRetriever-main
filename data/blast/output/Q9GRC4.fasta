@@ -1,0 +1,36 @@
+>sp|Q9GRC4.1| RecName: Full=Cement protein 20; AltName: Full=20 kDa cement protein; Short=Mrcp-20k; Flags: Precursor [Megabalanus rosa]
+MKWFLFLLTTAVLAAVVSAHEEDGVCNSNAPCYHCDANGENCSCNCELFDCEAKKPDGSYAHPCRRCDANNICKCSCTAIPCNEDHPCHHCHEEDDGDTHCHCSCEHSHDHHDDDTHGECTKKAPCWRCEYNADLKHDVCGCECSKLPCNDEHPCYRKEGGVVSCDCKTITCNEDHPCYHSYEEDGVTKSDCDCEHSPGPSE
+
+>sp|Q9VW71.3| RecName: Full=Fat-like cadherin-related tumor suppressor homolog; AltName: Full=Protein kugelei; Flags: Precursor [Drosophila melanogaster]
+CQPRYSGKHCEIDLDPCSSGPCLFGGRCDYHGPN-NYSCTCPIHLSGKRCEYGKFC----TPNPCKNGGIC----EEGDGISHCMCRGYTGPTCEIDVDECENQPCGNGATCINEPGSFRCICPSYLTGASCG
+
+>sp|Q9HCU4.1| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 2; AltName: Full=Cadherin family member 10; AltName: Full=Epidermal growth factor-like protein 2; Short=EGF-like protein 2; AltName: Full=Flamingo homolog 3; AltName: Full=Multiple epidermal growth factor-like domains protein 3; Short=Multiple EGF-like domains protein 3; Flags: Precursor [Homo sapiens]
+CSNDWDSYSCSCDPGYYGDNCTNVCDLNPCEHQSVCTRKPSAPHGYTC-ECPPNYLGPYCETRI----DQPCPRGWWGHPTCGPCNCDVSKGFDPDCNKTSGECHCKENHYRPPGSPTCLLCDCYPTGSLSRVCDPEDGQCPC
+
+>sp|Q2QI47.2| RecName: Full=Usherin; AltName: Full=Usher syndrome type IIa protein homolog; AltName: Full=Usher syndrome type-2A protein homolog; Flags: Precursor [Mus musculus]
+HCDPIGGQCDCKRRVSGRQCLQCQDGFYDLQALDPDG-----CRPCNCNPSGTVDGDITCHQNSGQCSCKANVIGLRCNRCNFGFKFLQSFNGDGCEPCQCNLHGSVNQLCDPLSGQCACKKEAKGLKCDSCRENFYGLPWSACEVCDCSKAGSQPGTVCDTETG---QCVCKPNVGGRQCSQCKAGYFNLYQNDSHLCLTCNCE
+
+>sp|Q9V5N8.4| RecName: Full=Protocadherin-like wing polarity protein stan; AltName: Full=Protein flamingo; AltName: Full=Protein starry night; Flags: Precursor [Drosophila melanogaster]
+EDG-CESRAQCPDHC-PNHSSCQSSWDLSTCE--------------CDSGYVGTDCAPICTVRPCASGVCRANTSLPRGYDCECNSSSRHG-DYCEKELQQPCPGGWWGERVCGPC-RCDL-AQGYHPDCNKTTGQCYCKTNHYQPPNETACLSCDCYSIGSFSGACN---PLTGQCECREGVIGRRCDSCSNP
+
+>sp|Q80U22.2| RecName: Full=AP-4 complex accessory subunit RUSC2; AltName: Full=Interacting protein of Rab1; Short=Iporin; AltName: Full=RUN and SH3 domain-containing protein 2 [Mus musculus]
+SSDESPRHPGRSGSGTQHCHCSSTSSQSEAADQSMGYVSDSSCNSSDGVLVTFSTLYNK--MHSSSRANLNSVPQSCSDSSFCSHADPGAFYLDLQPSPAESRMSCESHHPENGDREEGCGCPHVSSP
+
+>sp|Q7Z1K6.1| RecName: Full=Toxin Cll5c*; Flags: Precursor [Centruroides limpidus]
+LLIITACLVLFVWAKEGYLVNKSTGCKYGCFWLGKNENCDME---CKAKNQGGSYGY
+
+>sp|O60014.2| RecName: Full=E3 ubiquitin-protein ligase UBR1; AltName: Full=N-end-recognizing protein; AltName: Full=N-recognin-1; AltName: Full=RING-type E3 ubiquitin transferase UBR1 [Kluyveromyces lactis NRRL Y-1140]
+SSKPWYKIDENGGHSKFNHAGRICGAKFRVGEPIYRCKECSFDDTC-VLCVNCFNPKDHVGHHVYTSICTEFNNGI--CDCGDKEAWNH
+
+>sp|Q9QYP2.1| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 2; AltName: Full=Multiple epidermal growth factor-like domains protein 3; Short=Multiple EGF-like domains protein 3 [Rattus norvegicus]
+CSNDWDSYSCSCDPGYYGDNCTNVCDLNPCEHQSACTRKPSAPHGYIC-ECLPNYLGPYCETRI----DQPCPRGWWGHPTCGPCNCDVSKGFDPDCNKTSGECHCKENHYRPPSSPTCLLCDCYPTGSLSRVCDPEDGQCPC
+
+>sp|O22781.1| RecName: Full=Histone-lysine N-methyltransferase family member SUVH2; AltName: Full=Cytosine-HMTase 2; AltName: Full=H3-K27-HMTase 2; AltName: Full=H4-K20-HMTase 2; AltName: Full=Histone H3-K9 methyltransferase 2; Short=H3-K9-HMTase 2; AltName: Full=Protein SET DOMAIN GROUP 3; AltName: Full=Suppressor of variegation 3-9 homolog protein 2; Short=Su(var)3-9 homolog protein 2 [Arabidopsis thaliana]
+GCEC-KLSCTDDCLCARKNGGEFAYD
+
+>sp|Q9R0M0.3| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 2; AltName: Full=Flamingo homolog; Flags: Precursor [Mus musculus]
+CSNDWDSYSCSCVLGYYGDNCTNVCDLNPCEHQSVCTRKPNTPHGYIC-ECLPNYLGPYCETRI----DQPCPRGWWGHPTCGPCNCDVSKGFDPDCNKTSGECHCKENHYRPPGSPTCLLCDCYPTGSLSRVCDPEDGQCPC
+
+>sp|O35161.3| RecName: Full=Cadherin EGF LAG seven-pass G-type receptor 1; Flags: Precursor [Mus musculus]
+EDPCASSPCPPHSHCRDTWDSYSCICDRGYFGKKCVDACLLNPCKHVAACVRSPNTPRGYSCE---CGPGHYGQYCENKVDLPCPKGWWGNPVCGPCHCAVSQGFDPDCNKTNGQCQCKE-----NYYKPPAQDAC------LPCD----CFPHGSHSRACDMDTGQC
+
